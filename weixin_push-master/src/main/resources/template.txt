@@ -1,0 +1,39 @@
+{{date.DATA}}
+早安心语：{{morning.DATA}}
+晚安心语：{{evening.DATA}}
+城市: {{city.DATA}}
+天气：{{text_now.DATA}}
+当前气温：{{temp.DATA}}℃
+最低气温：{{low.DATA}}℃
+最高气温：{{high.DATA}}℃
+今天是我们相识的第{{toDayOfCommemoration.DATA}}天
+距离{{appointedDay.DATA}}相见还有{{toAppointedDay.DATA}}天
+彩虹屁：{{rainbow.DATA}}
+舔狗日记：{{flatterer.DATA}}
+备注：{{note.DATA}}
+
+早模板：
+{{date.DATA}}
+早安心语：{{morning.DATA}}
+城市: {{city.DATA}}
+天气：{{text_now.DATA}}
+当前气温：{{temp.DATA}}℃
+最低气温：{{low.DATA}}℃
+最高气温：{{high.DATA}}℃
+今天是我们相识的第{{toDayOfCommemoration.DATA}}天
+距离{{appointedDay.DATA}}相见还有{{toAppointedDay.DATA}}天
+彩虹屁：{{rainbow.DATA}}
+备注：{{note.DATA}}
+
+晚模板：
+{{date.DATA}}
+晚安心语：{{evening.DATA}}
+城市: {{city.DATA}}
+天气：{{text_now.DATA}}
+当前气温：{{temp.DATA}}℃
+最低气温：{{low.DATA}}℃
+最高气温：{{high.DATA}}℃
+今天是我们相识的第{{toDayOfCommemoration.DATA}}天
+距离{{appointedDay.DATA}}相见还有{{toAppointedDay.DATA}}天
+舔狗日记：{{flatterer.DATA}}
+备注：{{note.DATA}}

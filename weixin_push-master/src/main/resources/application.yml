@@ -1,0 +1,18 @@
+server:
+  port: 8081  #端口号
+
+ling:
+  districtId:        #行政区域代码,此处是南京的行政位置代码
+  accessKey:        #百度地图开发平台AK
+
+  appId:    #测试公众号的appId
+  appSecret:   #测试公众号的appSecret
+  users:          #待发送的用户微信号
+  templateIds:	        #发送的消息模板id
+
+  apiKey:    #天行数据 彩虹屁key|舔狗日记key|早安心语key|晚安心语key
+
+  dayOfCommemoration:  2023-01-14          #纪念日    格式 yyyy-MM-dd
+  appointedDay: 2023-04-29      #面基日  格式 yyyy-MM-dd
+
+
